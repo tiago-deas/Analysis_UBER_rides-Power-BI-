@@ -1,4 +1,4 @@
-# Analysis_UBER_rides-Power-BI-
+# Analysis of Uber rides on Power BI
 The analysis was made on Power BI using a dataset concerning UBER rides in some cities around the world. The analysis was conducted along with 3 classmates from the Data Analytics course at Digital House.
 
 
