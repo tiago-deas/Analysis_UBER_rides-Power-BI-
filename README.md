@@ -15,6 +15,9 @@ Some dasboards I have made using Power BI and Tableau.
 
 - Analysis of Uber rides (Power BI Dashboard).pdf
 
+<img src="https://i.imgur.com/34XB36D.jpg">
+
+<img src="https://i.imgur.com/yIEJ2FH.jpg">
 
 - Business Model for an Ecommerce Company
 
