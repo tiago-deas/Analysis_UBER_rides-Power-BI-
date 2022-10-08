@@ -24,3 +24,9 @@ Some dasboards I have made using Power BI and Tableau.
 <img src="https://i.imgur.com/qKlSumk.jpg">
 
 <img src="https://i.imgur.com/n1KnM7u.jpg">
+
+- Analysis of Brazil's fuel market from 2012 to 2021
+
+<img src="https://i.imgur.com/zz6yiNE.jpg">
+
+<img src="https://i.imgur.com/y2mzr2A.jpg">
