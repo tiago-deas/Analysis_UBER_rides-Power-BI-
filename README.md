@@ -13,7 +13,11 @@ Some dasboards I have made using Power BI and Tableau.
 
 <h3>You can see a preview of my dashboards on:</h3>
 
-- Analysis of Uber rides (Power BI Dashboard).pdf
+- Mapping of the Rio de Janeiro State According to the Degree of Landslide Risk
+
+<img src="https://i.imgur.com/BTpRppw.jpg">
+
+- Analysis of Uber rides (Power BI Dashboard)
 
 <img src="https://i.imgur.com/34XB36D.jpg">
 
